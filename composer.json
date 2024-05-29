@@ -1,0 +1,19 @@
+{
+    "name": "xyi303234486/zzy_demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xyi303234486\\ZzyDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xyi303234486",
+            "email": "44188842+xyi303234486@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
